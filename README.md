@@ -20,12 +20,24 @@
 
 ---
 
+## 🌊 Above deck
+
+I sail — so the theme on this page isn't decoration. Time on the water is where I
+do my clearest thinking, and it turns out to rhyme with engineering more than I
+expected: you check your gear before you need it, you read the conditions
+honestly, and you don't get to argue with the weather. 🐚
+
+What I care about most is software that **actually reaches people**. The build
+I'm proudest of isn't the cleverest thing I've written — it's a storefront that
+sold out its first run, because real people put real money through it. Shipping
+is the part that counts. Everything else is preparation. ⚓
+
 ## 🧭 Bearings
 
 - 🎓 Computer Science co-op student at **York University (Lassonde)** — graduating April 2027
 - 🔭 Looking for co-op terms in **backend, full-stack, data engineering and infrastructure**
-- ⚓ Founder and acting CTO of an edtech product currently in build
-- 🐚 I like systems that keep their promises — tested, documented, and runnable by a stranger
+- 🚢 Founder and acting CTO of an edtech product currently in build
+- 🪸 I like systems that keep their promises — tested, documented, and runnable by a stranger
 
 ## ⛵ The Fleet
 
