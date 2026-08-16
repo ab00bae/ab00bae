@@ -26,6 +26,7 @@
 - 🔭 Looking for internships in **backend, full-stack, data engineering and infrastructure**
 - 🚢 Founder and acting CTO of an edtech product currently in build
 - 🪸 I like systems that keep their promises: tested, documented, and runnable by a stranger
+- 🎸 I hope to learn guitar by the end of the year!
 
 ## 📡 Signal me
 
