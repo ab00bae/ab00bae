@@ -41,7 +41,7 @@
 ## ⛵ The Fleet
 
 Six small repositories, each crewed for one kind of engineering. Every one ships
-tests, a runnable demo, and a README that says plainly what it proves.
+tests and a runnable demo.
 
 |  | Repo | Role aboard | What it demonstrates |
 | :-: | --- | --- | --- |
