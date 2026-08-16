@@ -33,9 +33,7 @@
   <a href="https://x.com/ab00bae">
     <img src="https://img.shields.io/badge/%40ab00bae-000000?style=flat-square&logo=x&logoColor=white" alt="X"/>
   </a>
-  <a href="https://discord.com/users/ab00bae">
-    <img src="https://img.shields.io/badge/ab00bae-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
+  <img src="https://img.shields.io/badge/ab00bae-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord: ab00bae"/>
 </p>
 
 ## ⛵ The Fleet
