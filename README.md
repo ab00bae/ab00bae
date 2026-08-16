@@ -22,7 +22,7 @@
 
 ## 🧭 Bearings
 
-- 🎓 Computer Science student, graduating April 2027
+- 🎓 Computer Science student
 - 🔭 Looking for internships in **backend, full-stack, data engineering and infrastructure**
 - 🚢 Founder and acting CTO of an edtech product currently in build
 - 🪸 I like systems that keep their promises: tested, documented, and runnable by a stranger
@@ -31,11 +31,29 @@
 
 <p align="center">
   <a href="https://x.com/ab00bae">
-    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/>
+    <img src="https://img.shields.io/badge/%40ab00bae-000000?style=flat-square&logo=x&logoColor=white" alt="X"/>
   </a>
   <a href="https://discord.com/users/ab00bae">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"/>
+    <img src="https://img.shields.io/badge/ab00bae-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"/>
   </a>
+</p>
+
+## ⛵ The Fleet
+
+Six small repositories, each crewed for one kind of engineering. Every one ships
+tests, a runnable demo, and a README that says plainly what it proves.
+
+|  | Repo | Role aboard | What it demonstrates |
+| :-: | --- | --- | --- |
+| 📦 | **[quartermaster](https://github.com/ab00bae/quartermaster)** | Keeps the stores | REST API design, layered architecture, migrations, an append-only audit log |
+| 🧾 | **[purser](https://github.com/ab00bae/purser)** | Keeps the ledger | Password auth, JWT sessions, relational permissions, cross-user authorization |
+| 🧭 | **[navigator](https://github.com/ab00bae/navigator)** | Reads the charts | Staged ETL, data-quality rules, idempotent loads, timezone correctness |
+| 🔭 | **[lookout](https://github.com/ab00bae/lookout)** | Watches the horizon | Classical ML, leakage-free pipelines, metrics reported against a baseline |
+| 🛠️ | **[shipwright](https://github.com/ab00bae/shipwright)** | Builds and mends the ship | Multi-stage Docker, distroless images, CI/CD publishing to a registry |
+| 📣 | **[boatswain](https://github.com/ab00bae/boatswain)** | Keeps the crew moving | Third-party API integration, reporting logic, fully mocked test suites |
+
+<p align="center">
+  <sub>🪸 329 tests · 109 end-to-end demo assertions 🐙</sub>
 </p>
 
 <p align="center"><sub>🌊 ⛵ 🌊 ⛵ 🌊 ⛵ 🌊 ⛵ 🌊 ⛵ 🌊 ⛵ 🌊 ⛵ 🌊 ⛵ 🌊</sub></p>
