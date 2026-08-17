@@ -1,9 +1,9 @@
-﻿<h1 align="center">Ahoy, and welcome aboard ðŸŒŠ</h1>
+<h1 align="center">Ahoy, and welcome aboard 🌊</h1>
 
 <p align="center">
-  <em>The world is my oyster ðŸ¦ª and software is the water beneath the boat.<br/>
+  <em>The world is my oyster 🦪 and software is the water beneath the boat.<br/>
   With a good crew you can sail anywhere.<br/>
-  The code was never the destination. That's always further out, on the horizon. ðŸŒ…</em>
+  The code was never the destination. That's always further out, on the horizon. 🌅</em>
 </p>
 
 <p align="center">
@@ -20,15 +20,15 @@
 
 ---
 
-## ðŸ§­ Bearings
+## 🧭 Bearings
 
-- ðŸŽ“ Computer Science student
-- ðŸ”­ Looking for internships in **backend, full-stack, data engineering and infrastructure**
-- ðŸš¢ Founder and acting CTO of an edtech product currently in build
-- ðŸª¸ I like systems that keep their promises: tested, documented, and runnable by a stranger
-- ðŸŽ¸ I hope to learn guitar by the end of the year!
+- 🎓 Computer Science student
+- 🔭 Looking for internships in **backend, full-stack, data engineering and infrastructure**
+- 🚢 Founder and acting CTO of an edtech product currently in build
+- 🪸 I like systems that keep their promises: tested, documented, and runnable by a stranger
+- 🎸 I hope to learn guitar by the end of the year!
 
-## ðŸ“¡ Signal me
+## 📡 Signal me
 
 <p align="center">
   <a href="https://x.com/ab00bae">
@@ -39,22 +39,22 @@
   </a>
 </p>
 
-## â›µ The Fleet
+## ⛵ The Fleet
 
 Six small repositories, each crewed for one kind of engineering. Every one ships
 tests and a runnable demo.
 
 |  | Repo | Role aboard | What it demonstrates |
 | :-: | --- | --- | --- |
-| ðŸ“¦ | **[quartermaster](https://github.com/ab00bae/quartermaster)** | Keeps the stores | REST API design, layered architecture, migrations, an append-only audit log |
-| ðŸ§¾ | **[purser](https://github.com/ab00bae/purser)** | Keeps the ledger | Password auth, JWT sessions, relational permissions, cross-user authorization |
-| ðŸ§­ | **[navigator](https://github.com/ab00bae/navigator)** | Reads the charts | Staged ETL, data-quality rules, idempotent loads, timezone correctness |
-| ðŸ”­ | **[lookout](https://github.com/ab00bae/lookout)** | Watches the horizon | Classical ML, leakage-free pipelines, metrics reported against a baseline |
-| ðŸ› ï¸ | **[shipwright](https://github.com/ab00bae/shipwright)** | Builds and mends the ship | Multi-stage Docker, distroless images, CI/CD publishing to a registry |
-| ðŸ“£ | **[boatswain](https://github.com/ab00bae/boatswain)** | Keeps the crew moving | Third-party API integration, reporting logic, fully mocked test suites |
+| 📦 | **[quartermaster](https://github.com/ab00bae/quartermaster)** | Keeps the stores | REST API design, layered architecture, migrations, an append-only audit log |
+| 🧾 | **[purser](https://github.com/ab00bae/purser)** | Keeps the ledger | Password auth, JWT sessions, relational permissions, cross-user authorization |
+| 🧭 | **[navigator](https://github.com/ab00bae/navigator)** | Reads the charts | Staged ETL, data-quality rules, idempotent loads, timezone correctness |
+| 🔭 | **[lookout](https://github.com/ab00bae/lookout)** | Watches the horizon | Classical ML, leakage-free pipelines, metrics reported against a baseline |
+| 🛠️ | **[shipwright](https://github.com/ab00bae/shipwright)** | Builds and mends the ship | Multi-stage Docker, distroless images, CI/CD publishing to a registry |
+| 📣 | **[boatswain](https://github.com/ab00bae/boatswain)** | Keeps the crew moving | Third-party API integration, reporting logic, fully mocked test suites |
 
 <p align="center">
-  <sub>ðŸª¸ 327 tests Â· 109 end-to-end demo assertions ðŸ™</sub>
+  <sub>🪸 327 tests · 109 end-to-end demo assertions 🐙</sub>
 </p>
 
-<p align="center"><sub>ðŸŒŠ â›µ ðŸŒŠ â›µ ðŸŒŠ â›µ ðŸŒŠ â›µ ðŸŒŠ â›µ ðŸŒŠ â›µ ðŸŒŠ â›µ ðŸŒŠ â›µ ðŸŒŠ</sub></p>
+<p align="center"><sub>🌊 ⛵ 🌊 ⛵ 🌊 ⛵ 🌊 ⛵ 🌊 ⛵ 🌊 ⛵ 🌊 ⛵ 🌊 ⛵ 🌊</sub></p>
