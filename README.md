@@ -41,8 +41,6 @@
 
 ## ⛵ The Fleet
 
-Six small repositories, each crewed for one kind of engineering. Every one ships
-tests and a runnable demo.
 
 |  | Repo | Role aboard | What it demonstrates |
 | :-: | --- | --- | --- |
