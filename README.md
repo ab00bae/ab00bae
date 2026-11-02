@@ -58,10 +58,14 @@
 ## 🕹️ Shore leave
 
 <p align="center">
+  <img alt="Contributions in the past year" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fab00bae%2Fab00bae%2Foutput%2Fcontributions.json&style=flat-square"/>
+</p>
+
+<p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ab00bae/ab00bae/output/galaga-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ab00bae/ab00bae/output/galaga-contribution-graph.svg">
-    <img alt="A Galaga fighter shooting down this year's contribution graph" src="https://raw.githubusercontent.com/ab00bae/ab00bae/output/galaga-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ab00bae/ab00bae/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ab00bae/ab00bae/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man eating the past year's contribution graph" src="https://raw.githubusercontent.com/ab00bae/ab00bae/output/pacman-contribution-graph.svg">
   </picture>
 </p>
 
