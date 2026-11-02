@@ -55,4 +55,14 @@
   <sub>🪸 327 tests · 109 end-to-end demo assertions 🐙</sub>
 </p>
 
+## 🕹️ Shore leave
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ab00bae/ab00bae/output/galaga-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ab00bae/ab00bae/output/galaga-contribution-graph.svg">
+    <img alt="A Galaga fighter shooting down this year's contribution graph" src="https://raw.githubusercontent.com/ab00bae/ab00bae/output/galaga-contribution-graph.svg">
+  </picture>
+</p>
+
 <p align="center"><sub>🌊 ⛵ 🌊 ⛵ 🌊 ⛵ 🌊 ⛵ 🌊 ⛵ 🌊 ⛵ 🌊 ⛵ 🌊 ⛵ 🌊</sub></p>
